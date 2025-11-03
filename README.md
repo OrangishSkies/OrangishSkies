@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to My Corner of the Web</h1>
+<h1 align="center">✨ Welcome to My Corner of the</h1>
 
 <p align="center">
   <a href="https://yourusername.github.io">🌐 Visit my website</a><br>
